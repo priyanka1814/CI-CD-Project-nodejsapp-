@@ -1,2 +1,19 @@
-# CI-CD-Project-nodejsapp-
-DevOps Project for Jenkins CI/CD pipeline with GitHub Integration
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
